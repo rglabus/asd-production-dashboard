@@ -1,0 +1,12 @@
+# Poufne pliki z danymi produkcyjnymi
+*.csv
+
+# Środowisko wirtualne i pliki podręczne Pythona
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Ustawienia lokalne środowiska i sekretne klucze
+.env
+.streamlit/secrets.toml
