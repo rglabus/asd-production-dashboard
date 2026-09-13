@@ -7,12 +7,11 @@ Interaktywny panel analityczny czasu produkcji oparty na danych z systemu Redmin
 ## 🚀 Dostęp do Aplikacji
 
 Otwórz aktywną aplikację w chmurze:
-* **[ASD Production Dashboard](https://twoja-nazwa.streamlit.app)** *(podmień na swój link)*
-
+* **[ASD Production Dashboard](https://asd-appuction-dashboard-m884wzqztd4kscjyozb5ub.streamlit.app/)**
 ## 📁 Dane Testowe
 
 Ze względów bezpieczeństwa dane produkcyjne nie są przechowywane w repozytorium. Do przetestowania działania panelu pobierz przygotowany plik testowy:
-* **[Pobierz plik testowy CSV (Google Drive)](https://drive.google.com/...)** *(podmień na swój link)*
+* **[Pobierz plik testowy CSV (Google Drive)](https://drive.google.com/file/d/1t7SrsDdKAat916rTEx-8NZGSANT0u6g1/view?usp=sharing)** 
 
 ---
 
