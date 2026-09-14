@@ -10,3 +10,4 @@ venv/
 # Ustawienia lokalne środowiska i sekretne klucze
 .env
 .streamlit/secrets.toml
+.code-workspace
